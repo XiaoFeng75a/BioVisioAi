@@ -1,0 +1,5 @@
+{
+  "name": "BioVisio AI",
+  "description": "A modern, intelligent bioinformatics interface for sequence analysis and data visualization powered by Gemini.",
+  "requestFramePermissions": []
+}
